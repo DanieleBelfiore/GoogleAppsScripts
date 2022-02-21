@@ -1,3 +1,5 @@
+// This script send an eMail based on the expiration dates in a Google Spreadsheet
+
 function SendEmail() {
   var sheetName = '';
   var days = 2;
